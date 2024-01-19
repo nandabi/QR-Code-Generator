@@ -105,6 +105,7 @@ const getQrCode = (parameters) => {
 };
 
  const onSubmit = () => {
+  console.log("clicked");
   
  }
 
