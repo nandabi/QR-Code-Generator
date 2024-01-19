@@ -41,7 +41,7 @@ This web application is designed to create QR codes with customizable parameters
    cd your-project
 
 ## Author
-    Meyer Nandabi 
+   Valerie Meyer Nandabi 
 
 ## Licence
 
