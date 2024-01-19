@@ -104,12 +104,12 @@ const getQrCode = (parameters) => {
   });
 };
 
-const onSubmit = () => {
-  console.log("clicked");
-  const data = dataInput.value;
-  if (!data.length) {
-    return showInputError();
-  }
+ const onSubmit = () => {
+  
+ }
+
+
+
   const color = mainColorpicker.value;
   const bgColor = backgroundColorpicker.value;
   const size = sizeSlider.value;
